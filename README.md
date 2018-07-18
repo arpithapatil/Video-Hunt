@@ -1,6 +1,6 @@
 # Video Hunt
 
-Video Hunt is a single page application built using reactjs. Single-Page Applications are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app. Video hunt is similar to youtube, where users can search and watch for different videos which are shared by talking to youtube api.
+Video Hunt is a single page application built using reactjs. Single-Page Applications are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app. Video Hunt is similar to youtube, where users can search and watch for different videos which are shared by talking to youtube api.
 
 ### Prerequisites
 
