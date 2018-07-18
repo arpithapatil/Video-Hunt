@@ -3,14 +3,17 @@
   "version": "1.0.0",
   "description": "Single page application with react",
   "main": "index.js",
-  "repository": "git@github.com:arpithapatil/Video-Hunt.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpithapatil/Video-Hunt.git"
+  },
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test":
       "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "arpithapatil",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
