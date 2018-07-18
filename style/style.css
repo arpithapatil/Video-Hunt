@@ -1,0 +1,40 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+.search-bar input {
+  width: 75%;
+  border: 1px solid grey;
+  border-radius: 4px;
+  height: 40px;
+}
+.video-item img {
+  max-width: 64px;
+}
+.video-detail .video-details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  background-color: white;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item:hover {
+  background-color: #eee;
+}
+.title {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-size: 50px;
+}
+.titlebox {
+  margin-left: 0px;
+  margin-top: 10px;
+  border: 1px solid black;
+  background: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%);
+  height: 70px;
+}
