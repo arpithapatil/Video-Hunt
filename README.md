@@ -43,6 +43,8 @@ Then the application should be accessible at http://localhost:8080
 ## Built With
 
 - [react](https://reactjs.org/)
+- [webpack](https://webpack.js.org/)
+- [babel](https://babeljs.io/)
 
 ## Authors
 

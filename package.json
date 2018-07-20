@@ -1,5 +1,5 @@
 {
-  "name": "Video Hunt",
+  "name": "video-hunt",
   "version": "1.0.0",
   "description": "Single page application with react",
   "main": "index.js",
